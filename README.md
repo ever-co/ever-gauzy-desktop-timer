@@ -1,4 +1,4 @@
-# Eve Gauzy Desktop Timer App
+# Ever Gauzy Desktop Timer App
 
 Please see https://github.com/ever-co/ever-gauzy for more information about Gauzy Platform and other available Apps.
 
